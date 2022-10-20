@@ -74,3 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
 Content/Kevin/LaserDoor.uasset
+Content/Kevin/CheckPoiint.uasset
+Content/Kevin/CheckPoiint.uasset
+Content/Kevin/BP_CheckPoint.uasset
