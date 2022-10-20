@@ -73,8 +73,3 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
-Content/Kevin/LaserDoor.uasset
-Content/Kevin/CheckPoiint.uasset
-Content/Kevin/CheckPoiint.uasset
-Content/Kevin/BP_CheckPoint.uasset
-Content/Kevin/CheckPoiint.uasset
